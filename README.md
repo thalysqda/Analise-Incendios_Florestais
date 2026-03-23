@@ -1,2 +1,1 @@
 # Analise-Incendios_Florestais
-
